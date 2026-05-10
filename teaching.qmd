@@ -1,0 +1,172 @@
+---
+title: "Teaching"
+subtitle: "Applied Economics | Econometrics | Business Mathematics & Statistics | Research Methods"
+description-meta: "Courses taught by Prof. Ibrahim Niankara at Al Ain University, College of Business — Academic Year 2025–2026"
+title-block-banner: false
+---
+
+Prof. Niankara teaches doctoral, graduate, and undergraduate courses at the College of Business, Al Ain University (Abu Dhabi Campus). His teaching philosophy integrates rigorous theoretical foundations with applied computational methods, drawing on real-world data from the UAE, the GCC, Sub-Saharan Africa, and the global economy. Active learning — case-based analysis, research paper critique, team assignments, and problem-based instruction — is central to every course he offers.
+
+---
+
+## Doctoral Courses · QFEmirates Level 8
+
+### Advanced Economics of Strategy · `0501750` · 3 CR.H
+
+This course explores the intersection of strategic management and economics, focusing on how firms compete, position themselves in markets, and create long-term value. Emphasizing applied economic theory and empirical research, students critically assess market structures, pricing strategies, game theory, innovation, and policy implications. The course equips students with the analytical tools and research competencies needed to develop strategic solutions for complex business problems while contributing to the scholarly understanding of competitive behavior and economic performance.
+
+**Weekly topics** move from industrial organization and competitive dynamics through applied research methods and game theory, to pricing strategies and market power, innovation and R&D, mergers and acquisitions, public policy and antitrust, behavioral economics and managerial biases, and culminate in a doctoral presentation with peer feedback.
+
+**Course learning outcomes.** By the end of this course, students will be able to:
+
+1. Critically evaluate advanced economic theories and models in relation to firm strategy, competition, and industry dynamics.
+2. Analyze and synthesize the effects of market structure, pricing behavior, and regulatory environments on strategic decision-making.
+3. Design and apply research methodologies using empirical tools and datasets to investigate strategic business issues within economic contexts.
+4. Construct and justify evidence-based strategic recommendations informed by applied research and economic analysis.
+5. Demonstrate ethical awareness, social responsibility, and sustainability in evaluating the outcomes of firm strategies and competitive practices.
+
+**Assessment.** Discussion and case work (40%) · Assignment (10%) · Presentation (10%) · Term paper (40%).
+
+**Textbook.** Blair, R.D., & Rush, M. *The Economics of Managerial Decisions* (1st ed., Pearson, 2020). Supplemented by Besanko, D. et al., *Economics of Strategy* (8th ed., Wiley, 2023) and Harvard Business Review case studies.
+
+---
+
+## Graduate Courses · QFEmirates Level 7
+
+### Managerial Economics · `0509603` · 3 CR.H
+
+This course provides an understanding of various economic analytical and theoretical approaches to managers for effective decision-making. It covers market forces analysis, production, pricing, market structure, and a firm's decisions in risk and rivalry. The main objective is to develop an economic perspective for students aspiring to manage a wide range of firms and business units, and to equip them to design effective economic policies to avoid uncertainties in a competitive global business environment.
+
+**Weekly topics** include: market forces — demand and supply; quantitative demand analysis and elasticity; the theory of individual behavior; the production process and costs; the organization of the firm and principal–agent problems; the nature of industry and the structure–conduct–performance paradigm; managing competitive, monopolistic, and monopolistically competitive markets; oligopoly models (Cournot, Stackelberg, Bertrand); pricing strategies with market power; and decisions under risk and uncertainty with asymmetric information.
+
+**Course learning outcomes.** By the end of this course, students will be able to:
+
+1. Analyze the implications of market forces to assist managerial decision-making.
+2. Demonstrate the importance of elasticity concepts to capture responses to changes in various economic variables.
+3. Propose the phenomenon of firm decisions to choose an optimal production scale with cost minimization.
+4. Interpret the firm-level differences regarding output, pricing strategies, and market structure for profit maximization.
+5. Assess the risk factors in business decision-making by incorporating the effects of uncertainty and imperfect information.
+6. Synthesize the key reasons and challenges of externalities by highlighting the role of government regulations to avoid market failure.
+
+**Assessment.** Quizzes · Midterm exam · Case studies · Assignments · Final exam.
+
+---
+
+## Undergraduate Courses · QFEmirates Level 6
+
+### Principles of Microeconomics · `0509210` · 3 CR.H
+
+This course offers an introduction to economics with focus on microeconomic issues. Microeconomics studies the behavior of individual economic units — households, firms, individual consumers, and producers. The primary focus is the theory of resource allocation, theory of supply and demand, theory of consumer behavior, and the theory of the firm under different market conditions. The course also provides exposure to the methods of calculating elasticity, utility, and cost components.
+
+**Weekly topics** include: the scope and method of economics; scarcity, choice, and opportunity cost; demand, supply, and market equilibrium; demand and supply applications; price elasticity; household behavior and consumer choice; the production process and profit-maximizing behavior; short-run and long-run costs and output decisions; and market failure and environmental sustainability.
+
+**Course learning outcomes.** By the end of this course, students will be able to:
+
+1. Discuss microeconomic concepts and their relevance to scarcity and opportunity cost.
+2. State and identify the determinants of the demand and supply functions.
+3. Explain the concept of elasticity and its implications for market outcomes.
+4. Differentiate different types of costs that a firm faces and how they relate to the marginal and average product of factors of production.
+5. Analyze the characteristics of firms operating in perfect competition and monopoly markets.
+6. Assess the environmental impact of firms' operations as market failure and the implications for sustainability.
+
+**Assessment.** Quizzes · Midterm exam · Assignments · Final exam.
+
+---
+
+### Principles of Macroeconomics · `0509200` · 3 CR.H
+
+This course introduces economics, focusing on macroeconomic issues, problems, and challenges. It addresses the central macroeconomic concerns including economic growth, business cycles, unemployment, and inflation. The course emphasizes the theory of income determination and monetary and fiscal policies, and provides exposure to calculating gross domestic product, national income, and aggregate expenditure.
+
+**Weekly topics** include: introduction to macroeconomics; measuring national output and national income; unemployment, inflation, and long-run growth; aggregate expenditure and equilibrium output; the government and fiscal policy; money, the Federal Reserve, and the interest rate; the determination of aggregate output, the price level, and the interest rate; policy effects and cost shocks in the AS/AD model; and the labor market in the macro-economy.
+
+**Course learning outcomes.** By the end of this course, students will be able to:
+
+1. Describe how macroeconomic concepts relate to the business environment.
+2. Identify fundamental macroeconomic issues related to the business cycle, unemployment, inflation, and long-term economic growth.
+3. Calculate the components of gross domestic product, national income, and aggregate expenditure.
+4. Explain the equilibrium level of aggregate output using the Saving/Investment approach.
+5. Apply the role of fiscal policy in the macro-economy.
+6. Apply the role of monetary policy in the macro-economy.
+
+**Assessment.** Quiz (30%) · Midterm exam (20%) · Assignment (10%) · Final exam (40%).
+
+---
+
+### Statistics for Business Decision-Making · `0508201` · 3 CR.H · *Pre-requisite: Math for Business (0508200)*
+
+This course provides students with an introduction to data-driven decision-making within a business context. It explores fundamental concepts, sources, and methods of data collection, as well as tabular and graphical presentation of data. Topics include descriptive statistics (measures of central tendency, variability, skewness, kurtosis), measures of association, probability concepts, random variables, probability distributions, sampling distributions, statistical estimation with confidence intervals, methods of statistical inference, and basic regression analysis. The course leverages Microsoft Excel with the MegaStat add-in for statistical computation and visualization.
+
+**Weekly topics** move from descriptive statistics (tabular, graphical, numerical) through probability and random variables (discrete and continuous), sampling distributions, confidence intervals, one-sample hypothesis testing, and correlation and regression analysis.
+
+**Course learning outcomes.** By the end of this course, students will be able to:
+
+1. Explain foundational statistical concepts, including descriptive statistics, probability, random variables, and probability distributions, and their relevance in business applications.
+2. Demonstrate proficiency in descriptive statistics through frequency distributions, tabular and graphical data representation, and their interpretation for business contexts.
+3. Evaluate business scenarios using basic probability concepts to model uncertainty and inform decision-making.
+4. Implement sampling techniques and inferential statistical methods to estimate population parameters, analyze data, and draw actionable conclusions for business decisions.
+5. Investigate relationships between variables using measures of association and regression analysis to address complex business challenges.
+6. Leverage Microsoft Excel to conduct advanced statistical computations, create insightful visualizations, and solve real-world business data problems.
+
+**Assessment.** Quiz (15%) · Assignment (15%) · Case study (10%) · Midterm exam (20%) · Final exam (40%).
+
+**Textbook.** Bowerman et al., *Business Statistics and Analytics in Practice* (10th ed., McGraw Hill Education, 2025).
+
+---
+
+### Math for Business · `0508200` · 3 CR.H
+
+This course equips undergraduate students with essential mathematical tools for effective decision-making in business, economics, and management. Designed for those with minimal mathematical background, it emphasizes practical applications to real-world challenges. Key topics include foundational mathematics, linear and non-linear equations, financial mathematics, and matrices. Students also engage with advanced techniques such as optimization through differentiation, marginal and average functions, and matrix operations — applied to practical scenarios such as equilibrium analysis, break-even points, and optimization.
+
+**Weekly topics** include: arithmetic operations; linear equations and simultaneous systems; supply and demand analysis; non-linear equations and quadratic functions; mathematics of finance (percentages, compound interest); differentiation and rules of derivatives; marginal revenue and cost; optimization of economic functions; integration of marginal functions; and matrix algebra.
+
+**Course learning outcomes.** By the end of this course, students will be able to:
+
+1. Solve linear and non-linear equations using algebraic, graphical, and numerical methods to address practical business and economic problems.
+2. Analyze mathematical models to determine equilibrium points, perform break-even analysis, and optimize resource allocation in business contexts.
+3. Apply financial mathematics concepts, including percentages, compound interest, and annuities, to evaluate investment and resource management scenarios.
+4. Utilize differentiation techniques to optimize business functions such as cost, revenue, and profit.
+5. Evaluate integrals for solving revenue-related problems and cost analysis in economics.
+6. Develop solutions for systems of linear equations in economics and management using matrix algebra.
+
+**Assessment.** Assignment (25%) · Quiz (15%) · Midterm exam (20%) · Final exam (40%).
+
+**Textbooks.** Slater, J. & Wittry, S., *Math for Business and Finance: An Algebraic Approach* (3rd ed., McGrawHill, 2024); Jacques, I., *Mathematics for Economics & Business* (10th ed., Prentice-Hall, 2024).
+
+---
+
+### Scientific Research Methodology · `0508203` · 3 CR.H · *General University Elective (GUE)*
+
+This course provides an engaging and comprehensive exploration of the scientific research process, equipping undergraduate students with the skills to investigate and address real-world challenges systematically. The course guides students through all phases of research — identifying and operationalizing research topics, formulating research problems, conducting literature reviews, and designing robust methodologies. It covers essential techniques such as sampling, quantitative and qualitative data collection, reliability, and validity. Students critically apply ethical research principles and produce a well-organized research proposal as the course capstone.
+
+**Weekly topics** follow a structured research journey: understanding scientific research and its elements; reviewing literature and citation (APA style); formulating the research problem; identifying variables; constructing hypotheses; study design; selecting a sample; methods of data collection (observations, interviews, questionnaires); and validity and reliability.
+
+**Course learning outcomes.** By the end of this course, students will be able to:
+
+1. Demonstrate an understanding of the scientific research process and basic research concepts.
+2. Conduct a critical literature review using systematic methods and proper APA style citation.
+3. Develop focused research questions, objectives, and hypotheses for real-world problems relevant to various academic disciplines.
+4. Apply the most appropriate research methodology to address stated research objectives.
+5. Select the most appropriate sampling design(s) and data collection technique(s) for effective research practices.
+6. Develop a comprehensive research proposal integrating all research phases and addressing academic or practical challenges.
+
+**Assessment.** Quiz (10%) · Assignment (10%) · Research proposal project (15%) · Midterm exam · Final exam.
+
+**Textbook.** Kumar, R. *Research Methodology: A Step-by-Step Guide for Beginners* (2019).
+
+---
+
+## Advising & Research Mentorship
+
+Prof. Niankara supervises undergraduate and graduate research projects with a focus on applied empirical analysis using microeconomic and econometric methods; development economics topics related to West Africa (Burkina Faso, WAEMU) and the GCC; digital finance, fintech adoption, and financial inclusion; environmental economics and sustainability; and the economics of artificial intelligence, platform markets, and digital innovation.
+
+Students interested in pursuing research in these areas are encouraged to explore the working papers available at the [BRASS Digital Lab](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/index.html){.external target="_blank"} and to reach out directly at [Ibrahim.niankara@aau.ac.ae](mailto:Ibrahim.niankara@aau.ac.ae).
+
+---
+
+## Professional Development in Teaching
+
+- Learner-Centered Instructional Design Training — Houston Community College
+- Writing Learning Outcomes and Course Objectives — Houston Community College
+- Orientation to Distance Education / Eagle Online 2 Training
+- Copyright Literacy in the Academic Environment
+- Academic Advising, Mentoring & Tutoring

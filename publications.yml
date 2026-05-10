@@ -1,0 +1,405 @@
+# Publications of Prof. Ibrahim Niankara
+# Format mirrors drganghe.github.io publications.yml
+# section: "Selected Work" | "Peer-reviewed Journal Paper"
+
+- section: Selected Work
+  authors: "**Niankara, I.**\\*, Rahrouh, M. N., & Traoret, R. I."
+  year: 2025
+  date: 2025-01-01
+  title: "Formal financial inclusion and the nexus between access to mobile and smart telecommunication services and usage of mobile financial services among women in Burkina Faso post-COVID-19 era"
+  journal: "Human Behavior and Emerging Technologies"
+  doi: 10.1155/hbe2/6040068
+  path: "https://doi.org/10.1155/hbe2/6040068"
+  categories: [2025, selected, fintech, financial-inclusion, africa]
+
+- section: Selected Work
+  authors: "**Niankara, I.**\\*, Hassan, H. I., Traoret, R. I., & Islam, A. R. M."
+  year: 2025
+  date: 2025-01-01
+  title: "Consumer Savings and Digital Remittance in Open Banking: Insights From Bibliometric and Geospatial Econometric Analysis"
+  journal: "Human Behavior and Emerging Technologies"
+  volume: 2025
+  issue: "1"
+  pages: "9352257"
+  doi: 10.1155/hbet/9352257
+  path: "https://doi.org/10.1155/hbet/9352257"
+  categories: [2025, selected, fintech, digital-finance, open-banking]
+
+- section: Selected Work
+  authors: "**Niankara, I.**\\*"
+  year: 2024
+  date: 2024-07-01
+  title: "Evaluating the influence of digital strategy on the interplay between quality certification and sales performance using data science and machine learning algorithms"
+  journal: "Journal of Open Innovation: Technology, Market, and Complexity"
+  volume: 10
+  issue: "3"
+  pages: "100354"
+  doi: 10.1016/j.joitmc.2024.100354
+  path: "https://doi.org/10.1016/j.joitmc.2024.100354"
+  categories: [2024, selected, machine-learning, digital-strategy, open-innovation]
+
+- section: Selected Work
+  authors: "**Niankara, I.**\\*, & Traoret, R. I."
+  year: 2023
+  date: 2023-12-01
+  title: "The digital payment-financial inclusion nexus and payment system innovation within the global open economy during the COVID-19 pandemic"
+  journal: "Journal of Open Innovation: Technology, Market, and Complexity"
+  volume: 9
+  issue: "4"
+  pages: "100173"
+  doi: 10.1016/j.joitmc.2023.100173
+  path: "https://doi.org/10.1016/j.joitmc.2023.100173"
+  categories: [2023, selected, digital-finance, financial-inclusion, open-innovation]
+
+- section: Selected Work
+  authors: "**Niankara, I.**\\*, Ghaleb, A. E., Qasim, A."
+  year: 2023
+  date: 2023-01-01
+  title: "A Spatial bivariate copula regression analysis of youths' access to ICT resources and subjective well-being in the Middle East"
+  journal: "International Journal of Economics and Business Research"
+  volume: 26
+  issue: "1"
+  pages: "43–83"
+  path: "https://www.researchgate.net/profile/Ibrahim-Niankara-3"
+  categories: [2023, selected, spatial-econometrics, GCC, youth]
+
+- section: Selected Work
+  authors: "**Niankara, I.**\\*"
+  year: 2022
+  date: 2022-01-01
+  title: "Empirical Analysis of the Global Supply and Demand of Entrepreneurial Finance: A Random Utility Theory Perspective"
+  journal: "Journal of Open Innovation: Technology, Market, and Complexity"
+  volume: 8
+  issue: "1"
+  pages: "26"
+  doi: 10.3390/joitmc8010026
+  path: "https://doi.org/10.3390/joitmc8010026"
+  categories: [2022, selected, entrepreneurial-finance, random-utility, open-innovation]
+
+- section: Selected Work
+  authors: "**Niankara, I.**\\*"
+  year: 2022
+  date: 2022-06-01
+  title: "Government and private sectors' electronic transfer practices and financial inclusion in the economic community of the West African States"
+  journal: "International Journal of Finance & Economics"
+  volume: 27
+  issue: "4"
+  pages: "4018–4047"
+  path: "https://www.researchgate.net/profile/Ibrahim-Niankara-3"
+  categories: [2022, selected, financial-inclusion, africa, digital-finance]
+
+- section: Selected Work
+  authors: "**Niankara, I.**\\*, Muqattash, R., Niankara, A., Traoret, R. I."
+  year: 2020
+  date: 2020-10-01
+  title: "COVID-19 Vaccine Development in a Quadruple Helix Innovation System: Uncovering the Preferences of the Fourth Helix in the UAE"
+  journal: "Journal of Open Innovation: Technology, Market and Complexity"
+  volume: 6
+  issue: "4"
+  pages: "132"
+  doi: 10.3390/joitmc6040132
+  path: "https://doi.org/10.3390/joitmc6040132"
+  categories: [2020, selected, health-economics, UAE, covid-19, open-innovation]
+
+# ============================================================
+# Peer-reviewed Journal Papers (full list, chronological desc)
+# ============================================================
+
+- section: Peer-reviewed Journal Paper
+  authors: "**Niankara, I.**\\*, & Traoret, R. I."
+  year: 2023
+  date: 2023-09-01
+  title: "Towards an encompassing concept of remittance in the digital era: Assessing the role of formal banking and mobile money accounting in its spatial flow"
+  journal: "Journal of Open Innovation: Technology, Market, and Complexity"
+  volume: 9
+  issue: "3"
+  pages: "100107"
+  doi: 10.1016/j.joitmc.2023.100107
+  path: "https://doi.org/10.1016/j.joitmc.2023.100107"
+  categories: [2023, peer-reviewed, digital-finance, remittance]
+
+- section: Peer-reviewed Journal Paper
+  authors: "**Niankara, I.**\\*"
+  year: 2023
+  date: 2023-08-01
+  title: "Socioeconomic and geospatial determinants of households' food and non-food consumption dynamics within the West African Economic and Monetary Union"
+  journal: "Scientific African"
+  volume: 20
+  pages: "e01724"
+  doi: 10.1016/j.sciaf.2023.e01724
+  path: "https://doi.org/10.1016/j.sciaf.2023.e01724"
+  categories: [2023, peer-reviewed, africa, consumption, spatial-econometrics]
+
+- section: Peer-reviewed Journal Paper
+  authors: "**Niankara, I.**\\*, Zoungrana, D. T., Traoret, R. I."
+  year: 2023
+  date: 2023-06-01
+  title: "Health and Environmental Consciousness Effects of Wealth in Low Income Countries: Evidence from Households' Energy, Water, and Sanitation Services Consumption in Burkina Faso"
+  journal: "International Journal of Economic Policy in Emerging Economies"
+  volume: 17
+  issue: "3"
+  pages: "307–332"
+  path: "https://www.researchgate.net/profile/Ibrahim-Niankara-3"
+  categories: [2023, peer-reviewed, health-economics, africa, energy]
+
+- section: Peer-reviewed Journal Paper
+  authors: "**Niankara, I.**\\*, & Abureza, M. I."
+  year: 2023
+  date: 2023-04-01
+  title: "The impact of B2P Electronic Payroll and G2P Digital Welfare on Formal Financial Inclusion in the Global Open Economy"
+  journal: "Journal of Open Innovation: Technology, Market, and Complexity"
+  volume: 9
+  issue: "2"
+  pages: "100034"
+  path: "https://www.researchgate.net/profile/Ibrahim-Niankara-3"
+  categories: [2023, peer-reviewed, financial-inclusion, digital-finance]
+
+- section: Peer-reviewed Journal Paper
+  authors: "**Niankara, I.**\\*"
+  year: 2023
+  date: 2023-03-01
+  title: "The impact of information and communication technology on youth ecological behavior: a global cross-country perspective on environmental citizenship and ethics"
+  journal: "International Journal of Global Warming"
+  volume: 29
+  issue: "4"
+  pages: "318–349"
+  path: "https://www.researchgate.net/profile/Ibrahim-Niankara-3"
+  categories: [2023, peer-reviewed, environment, youth, ICT]
+
+- section: Peer-reviewed Journal Paper
+  authors: "**Niankara, I.**\\*"
+  year: 2023
+  date: 2023-01-15
+  title: "The impact of financial inclusion on digital payment solution uptake within the Gulf Cooperation Council Economies"
+  journal: "International Journal of Innovation Studies"
+  volume: 7
+  issue: "1"
+  pages: "1–17"
+  path: "https://www.researchgate.net/profile/Ibrahim-Niankara-3"
+  categories: [2023, peer-reviewed, GCC, financial-inclusion, digital-finance]
+
+- section: Peer-reviewed Journal Paper
+  authors: "**Niankara, I.**\\*"
+  year: 2022
+  date: 2022-04-01
+  title: "Education's effect on food and monetary security in Burkina Faso: A joint semi-parametric and spatial analysis"
+  journal: "African Journal of Science, Technology, Innovation and Development"
+  volume: 14
+  issue: "6"
+  pages: "1690–1706"
+  path: "https://www.researchgate.net/profile/Ibrahim-Niankara-3"
+  categories: [2022, peer-reviewed, africa, education, spatial-econometrics]
+
+- section: Peer-reviewed Journal Paper
+  authors: "**Niankara, I.**\\*"
+  year: 2020
+  date: 2020-11-01
+  title: "Youths Interests in the Biosphere and Sensitivity to Nuclear Power Technology in the UAE: With Discussions on Open Innovation and Technological Convergence in Energy and Water Sectors"
+  journal: "Journal of Open Innovation: Technology, Market and Complexity"
+  volume: 6
+  issue: "4"
+  pages: "180"
+  path: "https://www.researchgate.net/profile/Ibrahim-Niankara-3"
+  categories: [2020, peer-reviewed, UAE, youth, environment, energy]
+
+- section: Peer-reviewed Journal Paper
+  authors: "**Niankara, I.**\\*, Aladwan, M. N., Niankara, A."
+  year: 2020
+  date: 2020-09-01
+  title: "The role of Digital Media in Shaping Youth Planetary Health Interests in the Global Economy"
+  journal: "Journal of Open Innovation: Technology, Market and Complexity"
+  volume: 6
+  issue: "3"
+  pages: "49"
+  path: "https://www.researchgate.net/profile/Ibrahim-Niankara-3"
+  categories: [2020, peer-reviewed, youth, digital-media, health-economics]
+
+- section: Peer-reviewed Journal Paper
+  authors: "**Niankara, I.**\\*, & Muqattash, R."
+  year: 2020
+  date: 2020-07-01
+  title: "The impact of Financial Inclusion on consumers saving and borrowing behaviors: a retrospective cross-sectional evidence from the UAE and the USA"
+  journal: "International Journal of Economics and Business Research"
+  volume: 20
+  issue: "2"
+  pages: "217–242"
+  path: "https://www.researchgate.net/profile/Ibrahim-Niankara-3"
+  categories: [2020, peer-reviewed, financial-inclusion, UAE, consumer-behavior]
+
+- section: Peer-reviewed Journal Paper
+  authors: "**Niankara, I.**\\*, Adkins, L. C."
+  year: 2020
+  date: 2020-05-01
+  title: "Youth Awareness and Expectations about GMOs and Nuclear Power Technologies within the North American Free Trade Bloc: A Retrospective Cross-country Comparative Analysis"
+  journal: "Journal of Open Innovation: Technology, Market and Complexity"
+  volume: 6
+  issue: "2"
+  pages: "34"
+  path: "https://www.researchgate.net/profile/Ibrahim-Niankara-3"
+  categories: [2020, peer-reviewed, youth, technology, environment]
+
+- section: Peer-reviewed Journal Paper
+  authors: "**Niankara, I.**\\*"
+  year: 2020
+  date: 2020-03-01
+  title: "The Role of English language proficiency on Immigrants health and economic Integration in the US"
+  journal: "International Journal of Economics and Business Research"
+  volume: 20
+  issue: "3"
+  pages: "255–287"
+  path: "https://www.researchgate.net/profile/Ibrahim-Niankara-3"
+  categories: [2020, peer-reviewed, health-economics, immigration, labor]
+
+- section: Peer-reviewed Journal Paper
+  authors: "**Niankara, I.**\\*"
+  year: 2019
+  date: 2019-09-01
+  title: "The relative influence of inter-generational co-residence on healthcare market and labor market outcomes in post affordable-care-act USA"
+  journal: "Global Business and Economics Review"
+  volume: 22
+  issue: "3"
+  pages: "213–248"
+  path: "https://www.researchgate.net/profile/Ibrahim-Niankara-3"
+  categories: [2019, peer-reviewed, health-economics, labor, USA]
+
+- section: Peer-reviewed Journal Paper
+  authors: "**Niankara, I.**\\*"
+  year: 2019
+  date: 2019-08-01
+  title: "Scientific Media Dieting and Students Awareness and Expectations about the Environmental Issues of Deforestation and Species Extinction in the Middle East and North America: An Integrated cross Cultural Ecologic-Economic Analysis"
+  journal: "World Review of Science, Technology and Sustainable Development"
+  volume: 15
+  issue: "3"
+  pages: "252–282"
+  path: "https://www.researchgate.net/profile/Ibrahim-Niankara-3"
+  categories: [2019, peer-reviewed, environment, MENA, education]
+
+- section: Peer-reviewed Journal Paper
+  authors: "**Niankara, I.**\\*, Niankara, A."
+  year: 2019
+  date: 2019-06-01
+  title: "The Relative Influence of Generic Essential Drugs and Nursing Staff Supply Shortages on Primary Healthcare Access in Burkina Faso"
+  journal: "International Journal of Economics and Business Research"
+  volume: 18
+  issue: "2"
+  pages: "129–154"
+  path: "https://www.researchgate.net/profile/Ibrahim-Niankara-3"
+  categories: [2019, peer-reviewed, health-economics, africa]
+
+- section: Peer-reviewed Journal Paper
+  authors: "**Niankara, I.**\\*, Traoret, R. I."
+  year: 2019
+  date: 2019-03-01
+  title: "Formal education and the contemporaneous dynamics of literacy, labour market participation and poverty reduction in Burkina Faso"
+  journal: "International Journal of Education Economics and Development"
+  volume: 10
+  issue: "2"
+  pages: "148–172"
+  path: "https://www.researchgate.net/profile/Ibrahim-Niankara-3"
+  categories: [2019, peer-reviewed, education, africa, labor]
+
+- section: Peer-reviewed Journal Paper
+  authors: "**Niankara, I.**\\*"
+  year: 2019
+  date: 2019-02-01
+  title: "Gender inequality in literacy status and its effects on households economic well-being in Burkina Faso: a semi-parametric bivariate sample selection modelling approach"
+  journal: "International Journal of Economics and Business Research"
+  volume: 17
+  issue: "2"
+  pages: "218–242"
+  path: "https://www.researchgate.net/profile/Ibrahim-Niankara-3"
+  categories: [2019, peer-reviewed, gender, africa, semi-parametric]
+
+- section: Peer-reviewed Journal Paper
+  authors: "**Niankara, I.**\\*"
+  year: 2019
+  date: 2019-01-01
+  title: "Modelling the effects of exposure to risk on junior faculty productivity incentives under the academic tenure system"
+  journal: "African Journal of Science, Technology, Innovation and Development"
+  volume: 11
+  issue: "3"
+  pages: "313–322"
+  path: "https://www.researchgate.net/profile/Ibrahim-Niankara-3"
+  categories: [2019, peer-reviewed, labor, higher-education]
+
+- section: Peer-reviewed Journal Paper
+  authors: "**Niankara, I.**\\*, Zoungrana, D. T."
+  year: 2018
+  date: 2018-10-01
+  title: "Interest in the Biosphere and students environmental awareness and optimism: A global perspective"
+  journal: "Global Ecology and Conservation"
+  volume: 16
+  pages: "e00489"
+  path: "https://www.researchgate.net/profile/Ibrahim-Niankara-3"
+  categories: [2018, peer-reviewed, environment, youth, global]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Thiombiano, N., **Niankara, I.**\\*"
+  year: 2018
+  date: 2018-08-01
+  title: "Sound pollution: a source of social health inequality for people living near fixed and intermittent sources of pollution in Burkina Faso"
+  journal: "International Journal of Behavioural and Healthcare Research"
+  volume: 6
+  issue: "2"
+  pages: "120–135"
+  path: "https://www.researchgate.net/profile/Ibrahim-Niankara-3"
+  categories: [2018, peer-reviewed, health-economics, africa, environment]
+
+- section: Peer-reviewed Journal Paper
+  authors: "**Niankara, I.**\\*"
+  year: 2018
+  date: 2018-07-01
+  title: "Organizational Management Culture and Employers' Health Insurance Offering Strategies in the US: An Ubuntu Based Random Utility Modeling Approach"
+  journal: "Global Business and Economics Review"
+  volume: 20
+  issue: "4"
+  pages: "503–520"
+  path: "https://www.researchgate.net/profile/Ibrahim-Niankara-3"
+  categories: [2018, peer-reviewed, health-economics, random-utility, USA]
+
+- section: Peer-reviewed Journal Paper
+  authors: "**Niankara, I.**\\*"
+  year: 2018
+  date: 2018-04-01
+  title: "Evaluating Health Consumers Preference stability through Joint Estimation of Revealed and Stated Health Insurance Preferences Data"
+  journal: "International Journal of Economics and Business Research"
+  volume: 15
+  issue: "2"
+  pages: "236–256"
+  path: "https://www.researchgate.net/profile/Ibrahim-Niankara-3"
+  categories: [2018, peer-reviewed, health-economics, discrete-choice]
+
+- section: Peer-reviewed Journal Paper
+  authors: "**Niankara, I.**\\*"
+  year: 2017
+  date: 2017-01-01
+  title: "A risk based random utility model for population based discrete choice analysis in health economics with applications in modeling patients' choices among medical treatment plans"
+  journal: "Global Business & Economics Anthology (GBEA)"
+  volume: "I"
+  pages: "27–39"
+  path: "https://www.researchgate.net/profile/Ibrahim-Niankara-3"
+  categories: [2017, peer-reviewed, health-economics, random-utility, discrete-choice]
+
+- section: Peer-reviewed Journal Paper
+  authors: "**Niankara, I.**\\*, Niankara, A."
+  year: 2017
+  date: 2017-01-01
+  title: "The contribution of Body Mass Index in the shared etiology of Diabetes, Hypertension and Hyperlipidaemia: A Semi-Parametric Trivariate Probit modeling Approach"
+  journal: "Journal of Clinical Medicine and Therapeutics"
+  volume: 2
+  issue: "1"
+  pages: "1–12"
+  path: "https://www.researchgate.net/profile/Ibrahim-Niankara-3"
+  categories: [2017, peer-reviewed, health-economics, semi-parametric]
+
+- section: Peer-reviewed Journal Paper
+  authors: "**Niankara, I.**\\*"
+  year: 2016
+  date: 2016-01-01
+  title: "Modeling Health Insurance Enrollment Decisions in the U.S., Under Preferences Endogeneity: A Bayesian Multinomial Probit Approach"
+  journal: "Journal of Global Business and Trade"
+  volume: 12
+  issue: "2"
+  pages: "1–14"
+  path: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2977039"
+  categories: [2016, peer-reviewed, health-economics, bayesian, discrete-choice]

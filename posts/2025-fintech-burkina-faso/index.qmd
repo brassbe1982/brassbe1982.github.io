@@ -1,0 +1,19 @@
+---
+title: "Formal Financial Inclusion and Mobile Financial Services Among Women in Burkina Faso"
+description: "New paper in Human Behavior and Emerging Technologies examines the endogenous nexus between mobile/smart telecom access and women's consumption of mobile financial services in post-COVID-19 Burkina Faso."
+date: 2025-01-01
+categories: [paper, financial-inclusion, africa, fintech]
+image: ../../files/images/fintech-africa.svg
+---
+
+## Summary
+
+This paper, published in *Human Behavior and Emerging Technologies*, investigates the endogenous nexus between access to mobile and smart telecommunication services (MSTSs) and women's consumption of mobile financial services (MFS) in post-COVID-19 Burkina Faso, with a focus on the mediating role of formal financial inclusion.
+
+Using data from the 2021 DHS on 17,659 women aged 15–49, we employ **spatial semiparametric trivariate copula regression modeling** to address inherent endogeneity. The study's novelty lies in its pioneering use of advanced econometric modelling to disentangle the causal web between MSTS access, formal financial inclusion, and women's MFS usage in a postcrisis, low-income African context where gender gaps in mobile access remain pronounced.
+
+Findings reveal positive associations between women's MSTS access and MFS consumption, with formal financial inclusion serving as a key mediating channel. These results carry direct policy implications for SDGs 5 (gender equality) and 9.c (technological access).
+
+## Citation
+
+Niankara, I., Rahrouh, M. N., & Traoret, R. I. (2025). Formal financial inclusion and the nexus between access to mobile and smart telecommunication services and usage of mobile financial services among women in Burkina Faso post-COVID-19 era. *Human Behavior and Emerging Technologies*, 2025(1), 6040068. doi:[10.1155/hbe2/6040068](https://doi.org/10.1155/hbe2/6040068){.external target="_blank"}

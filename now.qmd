@@ -1,0 +1,77 @@
+---
+title: "Now"
+subtitle: "What I'm working on"
+title-block-banner: false
+---
+
+## BRASS Digital Lab
+
+I am the founder and director of the [**BRASS Digital Lab**](https://brassbe1982-bdlweb.share.connect.posit.cloud/){.external target="_blank"} — the first and only Regulatory Technology (RegTech) and Supervisory Technology (SupTech) firm covering all 76+ UAE accredited higher education institutions.
+
+The Lab currently operates **4 live compliance platforms**, with **20 completed builds** and **52 in active development** — serving universities (Edu-RegTech: institutional compliance management) and government bodies (Edu-SupTech: real-time sector-wide oversight for MoHESR and CAA).
+
+[📁 View Portfolio](https://brassbe1982-bdlweb.share.connect.posit.cloud/portfolio/index.html){.external target="_blank"} &nbsp; | &nbsp; [📋 About the Lab](https://brassbe1982-bdlweb.share.connect.posit.cloud/about.html){.external target="_blank"}
+
+---
+
+## Research
+
+::: {.callout-tip}
+
+## Defining Question
+
+How does the transition to **cognitive-capital-intensive production** reshape economic value creation, distributional outcomes, and the boundaries of firms, markets, and states?
+
+:::
+
+All working papers are hosted on the **[BRASS Digital Lab Research Portal](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/index.html){.external target="_blank"}** — 27 papers across 6 research programmes. Active projects include:
+
+**Inference Economics:**
+
+- **[The Inference Economy: Token Consumption, Software Productivity, and Jevons Paradox Dynamics in AI](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/Inference-economy-token-consumption-productivity-and-Jevons-paradox-dynamics-in-ai.html){.external target="_blank"}** — Formalizing the Token Production Function, Token Kuznets Curve, and Jevons Paradox of AI Tokens with calibrated simulation evidence.
+- **[Tokens as Technology: AI Inference, Labor Augmentation, and Long-Run Software Productivity Growth](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/tokens-as-technology.html){.external target="_blank"}** — Macroeconomic growth model treating AI inference tokens as Harrod-neutral labor-augmenting technology.
+- **[The Transformative Role of MCP in the AI-Driven API Economy](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/qa-proj8-mcp-api-economy.html){.external target="_blank"}** — DiD study on 10,000 simulated firms showing MCP reduces integration costs by ~31%.
+
+**Agentic Innovation Economics:**
+
+- **[Agentic Innovation Economics: Autonomous AI Agents and the Future of Endogenous Technological Change](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/ai-agents-and-endogenous-technological-change.html){.external target="_blank"}** — Formal theoretical framework extending endogenous growth theory to autonomous AI innovators.
+- **[A Complete Formal Endogenous Growth Model with Autonomous AI Innovation Agents](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/growth-model-with-autonomous-ai-innovation-agents.html){.external target="_blank"}** — Full equilibrium analysis and simulation.
+- **[AI's Impact on Fresh Graduate Labor Demand](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/ai-graduate-labor-demand-agentic.html){.external target="_blank"}** — CES production framework + Monte Carlo, IEEE conference paper.
+
+**OBEF / RegTech Research:**
+
+- **[Regulation-Induced Innovation in UAE Higher Education](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/obf-regulation-innovation.html){.external target="_blank"}** — Formal model and Monte Carlo simulation of the Edu-RegTech market emerging from the MoHESR OBF mandate.
+- **[Digital Fair Trade Platforms for UAE HE Regulation](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/obf-digital-fair-trade.html){.external target="_blank"}** — Platform-economics model integrating mechanism design and Monte Carlo calibration.
+
+**Digitalization, Inclusion & Development:**
+
+- **[Open Banking Maturity, Financial Inclusion, and Firm Productivity: Global Evidence](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/paper15-open-banking-maturity-financial-inclusion-firm-productivity.html){.external target="_blank"}**
+- **[Digital and Financial Inclusion in Burkina Faso: Household Welfare and COVID-19](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/paper14-digital-financial-inclusion-burkina-faso-household-welfare.html){.external target="_blank"}**
+- **[Trading in Digital Financial Markets: Retail Investment Demand in the UAE](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/paper17-trading-demand-UAE.html){.external target="_blank"}**
+
+### I welcome collaborations on:
+
+- Economics of AI, inference tokens, and agentic systems
+- UAE/GCC higher education RegTech and OBF compliance
+- Digital finance, open banking, and financial inclusion
+- Spatial and computational econometrics
+- West African and Gulf development economics
+- Green innovation and firm-level efficiency
+
+---
+
+## Teaching
+
+Each semester at Al Ain University, College of Business:
+
+- **Applied Econometrics** (graduate)
+- **Managerial Economics** (graduate)
+- **Business Economics** (undergraduate)
+- **Economics of Digital Innovation** (undergraduate elective)
+
+---
+
+## Upcoming Events (2025–2026)
+
+- **SNAMS 2025** — 12th International Conference on Social Networks Analysis, Management and Security · Vienna, Austria · November 25–28, 2025
+- **GCET 2025** — 12th International Conference on the Global Congress on Emerging Technologies · University Lyon 1, Lyon, France · December 2–5, 2025

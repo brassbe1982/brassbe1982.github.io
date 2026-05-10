@@ -1,0 +1,19 @@
+---
+title: "Digital Strategy, Quality Certification, and Sales Performance: A Machine Learning Approach"
+description: "Published in the Journal of Open Innovation, this paper uses data science and machine learning to evaluate how digital strategy moderates the relationship between quality certification and firm sales performance."
+date: 2024-07-01
+categories: [paper, machine-learning, digital-strategy, open-innovation, featured]
+image: ../../files/images/ml-business.svg
+---
+
+## Summary
+
+This paper, published in the *Journal of Open Innovation: Technology, Market, and Complexity*, evaluates the influence of **digital strategy** on the interplay between **quality certification** (e.g., ISO standards) and **sales performance** using data science and machine learning algorithms.
+
+Drawing on enterprise-level data from multiple regions, the study applies a suite of ML algorithms — including ensemble methods, gradient boosting, and feature importance analysis — to identify the conditional pathways through which digitally-mature firms translate quality credentials into superior sales outcomes.
+
+Key findings suggest that digital strategy acts as a critical moderator: firms with strong digital infrastructure derive significantly larger sales gains from quality certification, pointing to complementarities between digital and quality-management investments that traditional regression approaches tend to underestimate.
+
+## Citation
+
+Niankara, I. (2024). Evaluating the influence of digital strategy on the interplay between quality certification and sales performance using data science and machine learning algorithms. *Journal of Open Innovation: Technology, Market, and Complexity*, 10(3), 100354. doi:[10.1016/j.joitmc.2024.100354](https://doi.org/10.1016/j.joitmc.2024.100354){.external target="_blank"}

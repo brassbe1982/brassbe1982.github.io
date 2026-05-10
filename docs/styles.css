@@ -1,0 +1,196 @@
+/* ================================================================
+   Prof. Ibrahim Niankara — Quarto website CSS
+   Design adapted from ath-quarto (Andrew Heiss) panel style
+   ================================================================ */
+
+/* ----------------------------------------------------------------
+   TOP PANEL — Navbar layout
+   ---------------------------------------------------------------- */
+
+.navbar .nav-container,
+.navbar .container-fluid,
+.page-footer {
+    max-width: 1160px;
+    margin: 0 auto;
+    float: none;
+}
+
+.navbar {
+    width: 100%;
+}
+
+/* ----------------------------------------------------------------
+   HOME PAGE — Title-block banner (the colored top panel)
+   Mirrors the .home rules from ath-quarto's ath.scss
+   ---------------------------------------------------------------- */
+
+.home .quarto-title-banner {
+    margin-bottom: 0;
+}
+
+.home #title-block-header {
+    margin-block-end: 0;
+}
+
+/* ----------------------------------------------------------------
+   BOTTOM PANEL — Footer three-column layout
+   Mirrors nav-footer rules from ath-quarto's ath.scss
+   ---------------------------------------------------------------- */
+
+/* Utility: stack spans vertically inside footer columns */
+.faux-block {
+    display: block;
+    padding-bottom: 0.4em;
+}
+
+.nav-footer {
+    align-items: flex-start;
+    flex-wrap: wrap;
+    border: 0 !important;
+    min-height: 3em;
+}
+
+/* Override Quarto's absolute positioning on the center column */
+.nav-footer .nav-footer-center {
+    text-align: center;
+    position: inherit;
+    margin-top: 0;
+}
+
+/* Mobile: each column is full-width and centered */
+.nav-footer .nav-footer-left,
+.nav-footer .nav-footer-right,
+.nav-footer .nav-footer-center {
+    text-align: center;
+    width: 100%;
+    min-height: 2em;
+}
+
+/* Desktop (≥ 768px): three equal columns, aligned left/center/right */
+@media (min-width: 768px) {
+    .nav-footer .nav-footer-left {
+        text-align: left;
+    }
+
+    .nav-footer .nav-footer-right {
+        text-align: right;
+    }
+
+    .nav-footer .nav-footer-left,
+    .nav-footer .nav-footer-right,
+    .nav-footer .nav-footer-center {
+        flex: 1 1 33%;
+    }
+}
+
+@media (max-width: 767px) {
+    .nav-footer .nav-footer-center {
+        margin-top: 0.5em;
+        margin-bottom: 1.5em;
+    }
+}
+
+/* ----------------------------------------------------------------
+   General page layout
+   ---------------------------------------------------------------- */
+
+.hero-header {
+    margin-top: 0px;
+}
+
+.background-frame {
+    padding-bottom: 1rem;
+}
+
+.button {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.alt-background {
+    background-color: rgb(247, 249, 251);
+    border-top: 1px solid #dee2e6;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.btn-action-primary {
+    color: white;
+    background-color: #2c5f8a !important;
+}
+
+.btn-action-primary:hover {
+    color: white;
+}
+
+.btn-action {
+    min-width: 165px;
+    border-radius: 30px;
+    border: none;
+}
+
+.content-block {
+    padding-top: 20px;
+    padding-bottom: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+@media (min-width: 900px) {
+    .content-block {
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .content-block {
+        max-width: 1100px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+/* ----------------------------------------------------------------
+   Publication listing — Dimensions + Altmetric badges
+   ---------------------------------------------------------------- */
+
+span.__dimensions_badge_embed__,
+div.altmetric-embed {
+    display: inline-flex;
+    vertical-align: middle;
+}
+
+/* ----------------------------------------------------------------
+   Video / iframe containers
+   ---------------------------------------------------------------- */
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.container {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 75%;
+}
+
+.responsive-iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+}

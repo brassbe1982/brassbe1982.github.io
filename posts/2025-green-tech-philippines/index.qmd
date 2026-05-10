@@ -1,0 +1,24 @@
+---
+title: "Green Technology Innovation and Firm-Level Technical Efficiency in the Philippines"
+description: "Using Data Envelopment Analysis and spatial Tobit models on 748 firms from the 2024 World Bank Green Economy Survey, this paper shows that green innovation improves technical efficiency by 8.7%, with greater gains for large firms and urban manufacturers."
+date: 2025-02-01
+categories: [paper, green-innovation, firm-efficiency, DEA]
+image: ../../files/images/green-tech.svg
+---
+
+## Summary
+
+This study examines how **green technology innovation (GI)** influences firm-level technical efficiency in the Philippines, applying the Resource-Based View (RBV) and institutional theory. Using data from 748 firms in the 2024 World Bank Enterprise Survey Green Economy module, a two-stage approach is employed:
+
+1. **Data Envelopment Analysis (DEA)** measures technical efficiency across firms of different sizes, sectors, and regions.
+2. A **spatial Tobit model** assesses the impact of GI (via the GreenInov2 index), adjusting for internal resources (financial access, energy and internet usage, managerial experience) and external pressures (environmental inspections, climate strategies).
+
+Results show GI improves efficiency by **8.7%**, with greater gains for large firms and urban manufacturers, especially in Calabarzon. Robustness is confirmed using alternative measures and instrumental variable models. The findings position GI as a VRIN resource under RBV and highlight the role of regulation under institutional theory.
+
+## Presented at
+
+12th International Conference on the Global Congress on Emerging Technologies (**GCET 2025**), University Lyon 1, Lyon, France, December 2–5, 2025. *Proceedings pp. 108–116.*
+
+## Citation
+
+Niankara, I. (2025). Green Technology Innovation and Firm-Level Technical Efficiency: A Two-Stage Analysis in the Philippines. *2025 Global Congress on Emerging Technologies (GCET 2025)*, pp. 108–116.

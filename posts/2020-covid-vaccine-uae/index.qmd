@@ -1,0 +1,19 @@
+---
+title: "COVID-19 Vaccine Development in a Quadruple Helix Innovation System: The UAE"
+description: "This paper in the Journal of Open Innovation uncovers the preferences of civil society — the fourth helix — in the UAE's COVID-19 vaccine development innovation system, using discrete choice modelling."
+date: 2020-10-01
+categories: [paper, health-economics, UAE, covid-19, open-innovation]
+image: ../../files/images/vaccine-innovation.svg
+---
+
+## Summary
+
+This paper, published in the *Journal of Open Innovation: Technology, Market and Complexity*, examines the **Quadruple Helix Innovation System** for COVID-19 vaccine development in the UAE — a framework integrating academia, industry, government, and civil society (the "fourth helix").
+
+Using discrete choice modelling on primary survey data, the study uncovers the preferences of the UAE's general public regarding vaccine development pathways, regulatory approval timelines, and vaccination campaign strategies. The analysis reveals that civil society preferences differ significantly from official government narratives, underscoring the importance of incorporating public preferences in pandemic response planning and vaccine rollout design.
+
+This paper was accompanied by a complementary data article (Muqattash et al., 2020, *Data in Brief*) that made the full survey dataset publicly available.
+
+## Citation
+
+Niankara, I., Muqattash, R., Niankara, A., Traoret, R. I. (2020). COVID-19 Vaccine Development in a Quadruple Helix Innovation System: Uncovering the Preferences of the Fourth Helix in the UAE. *Journal of Open Innovation: Technology, Market and Complexity*, 6(4), 132. doi:[10.3390/joitmc6040132](https://doi.org/10.3390/joitmc6040132){.external target="_blank"}

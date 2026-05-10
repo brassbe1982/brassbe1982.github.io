@@ -1,0 +1,19 @@
+---
+title: "Global Supply and Demand of Entrepreneurial Finance: A Random Utility Theory Perspective"
+description: "This paper in the Journal of Open Innovation applies a Random Utility Theory framework to analyze the global supply and demand of entrepreneurial finance, linking neo-classical economic theory to revealed market preference data."
+date: 2022-01-01
+categories: [paper, entrepreneurial-finance, random-utility, open-innovation]
+image: ../../files/images/entrepreneurial-finance.svg
+---
+
+## Summary
+
+This paper, published in *Journal of Open Innovation: Technology, Market, and Complexity*, provides an **empirical analysis of the global supply and demand of entrepreneurial finance** using a **Random Utility Theory (RUT)** perspective. The study connects neo-classical economic theory with revealed market preference data to model the discrete choices of both entrepreneurs seeking capital and financiers supplying it.
+
+Drawing on multi-country enterprise survey data, the paper estimates bilateral models of supply and demand for entrepreneurial capital — examining how firm characteristics, institutional quality, financial market development, and digital infrastructure shape access to and provision of entrepreneurial finance across different economic settings.
+
+Key findings highlight the role of **financial inclusion** and **digital infrastructure** as demand-side catalysts, while **regulatory quality** and **macroeconomic stability** emerge as the dominant supply-side determinants of entrepreneurial capital flows in both advanced and emerging economies.
+
+## Citation
+
+Niankara, I. (2022). Empirical Analysis of the Global Supply and Demand of Entrepreneurial Finance: A Random Utility Theory Perspective. *Journal of Open Innovation: Technology, Market, and Complexity*, 8(1), 26. doi:[10.3390/joitmc8010026](https://doi.org/10.3390/joitmc8010026){.external target="_blank"}

@@ -1,0 +1,163 @@
+---
+title: "Ibrahim Niankara, PhD"
+subtitle: |
+  Professor of Applied Economics & Digital Innovation \
+  Finance & Banking Department · College of Business \
+  Al Ain University (Abu Dhabi Campus) \
+  Email: Ibrahim.niankara@aau.ac.ae
+description-meta: "Ibrahim Niankara is a Professor of Applied Economics and Digital Innovation at the College of Business, Al Ain University, UAE. Founder of BRASS Digital Lab — RegTech for UAE Higher Education. Research: Inference Economics, Agentic Innovation Economics, Applied Econometrics, Digital Finance, Financial Inclusion."
+image: "files/profile/Ibrahim-niankara-Profile-Image.jpg"
+title-block-banner: "#1A3A5C"
+page-navigation: false
+toc: false
+page-layout: full
+css: index-grids.css
+format:
+  html:
+    quarto-template-params:
+      banner-header-class: "home"
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 80%
+  links:
+    - text: "BRASS Digital Lab"
+      href: https://brassbe1982-bdlweb.share.connect.posit.cloud/
+      target: _blank
+    - text: "Lab Research"
+      href: https://brassbe1982-bdlweb.share.connect.posit.cloud/research/index.html
+      target: _blank
+    - text: "AAU Profile"
+      href: https://business.aau.ac.ae/en/business/academic-staff/staff/ibrahim-niankara
+      target: _blank
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ibrahim-niankara-299a3762/
+      target: _blank
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0001-7049-0859
+      target: _blank
+    - text: "{{< ai scopus >}} Scopus"
+      href: https://www.scopus.com/authid/detail.uri?authorId=57200579496
+      target: _blank
+    - text: "{{< ai researchgate >}} ResearchGate"
+      href: https://www.researchgate.net/profile/Ibrahim-Niankara-3
+      target: _blank
+
+listing:
+  - id: recent-posts
+    contents:
+      - posts
+    exclude:
+      categories: [paper, featured]
+    type: grid
+    grid-columns: 1
+    max-items: 3
+    page-size: 3
+    fields: [image, date, title]
+    max-description-length: 75
+    sort:
+      - "date desc"
+      - "title asc"
+  - id: latest-papers
+    contents:
+      - posts
+    include:
+      categories: [paper]
+    type: grid
+    grid-columns: 1
+    max-items: 3
+    page-size: 3
+    fields: [image, date, title]
+    max-description-length: 75
+    sort:
+      - "date desc"
+      - "title asc"
+  - id: featured-posts
+    contents:
+      - posts
+    include:
+      categories: [featured]
+    type: grid
+    grid-columns: 1
+    max-items: 3
+    page-size: 3
+    fields: [image, date, title]
+    max-description-length: 75
+    sort:
+      - "date desc"
+      - "title asc"
+---
+
+::: {#hero-heading}
+Ibrahim Niankara is a Professor of Applied Economics and Digital Innovation at the [College of Business](https://business.aau.ac.ae/){.external target="_blank"}, [Al Ain University](https://aau.ac.ae/){.external target="_blank"} (Abu Dhabi Campus), UAE. He is the founder and director of the [**BRASS Digital Lab**](https://brassbe1982-bdlweb.share.connect.posit.cloud/){.external target="_blank"} — the first and only Regulatory Technology (RegTech) and Supervisory Technology (SupTech) firm with platform coverage of all 76+ UAE accredited higher education institutions, serving both the institutions that must comply (Edu-RegTech) and the government bodies that supervise them (Edu-SupTech).
+
+His academic research is organized around two pioneering theoretical frameworks. **Inference Economics** treats the AI inference token — the atomic commodity that gives access to machine cognition — as a formal economic good with supply, demand, price, welfare implications, and distributional consequences. Its core constructs (the Token Production Function, the Token Kuznets Curve, and the Jevons Paradox of AI Tokens) are developed in a [series of working papers](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/#category=Inference%20Economics){.external target="_blank"} at BRASS Digital Lab. **Agentic Innovation Economics** extends classical endogenous growth theory to accommodate autonomous AI agents as independent innovators — studied through [formal theoretical models and Monte Carlo simulations](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/#category=Agentic%20Innovation%20Economics){.external target="_blank"}.
+
+Complementing this frontier agenda, his broader empirical program spans **Applied Econometrics**, **Digital Finance and Financial Inclusion**, **Open Innovation**, **Strategic Orientation Economics**, and **Development Economics** — with a geographic focus on Sub-Saharan Africa (Burkina Faso, WAEMU), the Gulf Cooperation Council, Europe and Central Asia, the Philippines, and the United States. His methods draw on Random Utility Theory, Bayesian approaches, spatial copula regression, Data Envelopment Analysis, Statistical Process Control, and machine-learning prescriptive analytics.
+
+He has published in internationally recognized peer-reviewed journals including the *Journal of Open Innovation: Technology, Market, and Complexity*; the *Global Business and Economics Review*; *Human Behavior and Emerging Technologies*; the *International Journal of Finance & Economics*; the *African Journal of Science, Technology, Innovation and Development*; *Scientific African*; and *Global Ecology and Conservation*.
+
+Prof. Niankara received his **Ph.D. in Economics** from [Oklahoma State University](https://economics.okstate.edu/){.external target="_blank"} (2011), where he also earned an M.S. in Economics with a Graduate Minor in Statistics (2009) and a B.S. in Economics — Quantitative Studies option, *Magna Cum Laude* (2007). He previously held positions at the University of Illinois College of Medicine at Peoria, the University of Houston Downtown, and Université Aube Nouvelle (Burkina Faso).
+:::
+
+------------------------------------------------------------------------
+
+:::::::::::: grid
+::::: {.g-col-12 .g-col-md-4 style="display: flex; flex-direction: column;"}
+<p align="center" style="font-size:24px; font-weight:bold;">
+
+Recent Posts
+
+</p>
+
+::: {#recent-posts style="flex: 1;"}
+:::
+
+::: {.button style="margin-top: auto;"}
+<p align="center">
+
+[All Posts »](/posts.qmd)
+
+</p>
+:::
+:::::
+
+::::: {.g-col-12 .g-col-md-4 style="border-left: 1px solid #ccc; padding-left: 24px; display: flex; flex-direction: column;"}
+<p align="center" style="font-size:24px; font-weight:bold;">
+
+Latest Papers
+
+</p>
+
+::: {#latest-papers style="flex: 1;"}
+:::
+
+::: {.button style="margin-top: auto;"}
+<p align="center">
+
+[More Papers »](/posts.qmd#category=paper)
+
+</p>
+:::
+:::::
+
+::::: {.g-col-12 .g-col-md-4 style="border-left: 1px solid #ccc; padding-left: 24px; display: flex; flex-direction: column;"}
+<p align="center" style="font-size:24px; font-weight:bold;">
+
+Featured
+
+</p>
+
+::: {#featured-posts style="flex: 1;"}
+:::
+
+::: {.button style="margin-top: auto;"}
+<p align="center">
+
+[Featured Posts »](/posts.qmd#category=featured)
+
+</p>
+:::
+:::::
+::::::::::::

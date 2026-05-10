@@ -1,0 +1,121 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - "files/"
+
+description-meta: "Prof. Ibrahim Niankara is a Professor of Applied Economics and Digital Innovation at the College of Business, Al Ain University. He studies Applied Econometrics, Inference Economics, Agentic Innovation Economics, Digital Finance, Financial Inclusion, and International Economics. Founder of BRASS Digital Lab."
+author-meta: "Ibrahim Niankara"
+
+website:
+  title: "Prof. Ibrahim Niankara"
+  image: "/files/profile/Ibrahim-niankara-Profile-Image.jpg"
+  description: "Prof. Ibrahim Niankara — Professor of Applied Economics and Digital Innovation, Al Ain University. Founder of BRASS Digital Lab."
+  site-url: "https://brassbe1982.github.io"
+
+  open-graph: true
+  twitter-card: true
+  reader-mode: false
+  search:
+    location: navbar
+    type: textbox
+
+  navbar:
+    pinned: true
+
+    left:
+      - text: About
+        menu:
+          - text: Research
+            href: research.qmd
+          - text: Now
+            href: now.qmd
+          - text: Contact
+            href: contact.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: Posts
+        href: posts.qmd
+      - text: BRASS Digital Lab
+        menu:
+          - text: Lab Home
+            href: https://brassbe1982-bdlweb.share.connect.posit.cloud/
+            target: _blank
+          - text: All Research (27 papers)
+            href: https://brassbe1982-bdlweb.share.connect.posit.cloud/research/index.html
+            target: _blank
+          - text: "---"
+          - text: Inference Economics
+            href: "https://brassbe1982-bdlweb.share.connect.posit.cloud/research/#category=Inference%20Economics"
+            target: _blank
+          - text: Agentic Innovation Economics
+            href: "https://brassbe1982-bdlweb.share.connect.posit.cloud/research/#category=Agentic%20Innovation%20Economics"
+            target: _blank
+          - text: OBEF Related Research
+            href: "https://brassbe1982-bdlweb.share.connect.posit.cloud/research/#category=OBEF%20related%20Research"
+            target: _blank
+          - text: Digitalization Inclusion and Development
+            href: "https://brassbe1982-bdlweb.share.connect.posit.cloud/research/#category=Digitalization%20Inclusion%20and%20Development"
+            target: _blank
+          - text: Strategic Orientation Economics
+            href: "https://brassbe1982-bdlweb.share.connect.posit.cloud/research/#category=Strategic%20Orientation%20Economics"
+            target: _blank
+          - text: Other Digital Innovation Economics
+            href: "https://brassbe1982-bdlweb.share.connect.posit.cloud/research/#category=Other%20Digital%20Innovation%20Economics"
+            target: _blank
+          - text: "---"
+          - text: Portfolio
+            href: https://brassbe1982-bdlweb.share.connect.posit.cloud/portfolio/index.html
+            target: _blank
+          - text: About the Lab
+            href: https://brassbe1982-bdlweb.share.connect.posit.cloud/about.html
+            target: _blank
+
+    right:
+      - text: "**CV**"
+        href: files/CV_Prof_Niankara.pdf
+        target: _blank
+      - icon: linkedin
+        href: https://www.linkedin.com/in/ibrahim-niankara-299a3762/
+        target: _blank
+      - icon: github
+        href: https://github.com/brassbe1982
+        target: _blank
+      - text: "{{< ai orcid >}} ORCID"
+        href: https://orcid.org/0000-0001-7049-0859
+        target: _blank
+
+  page-navigation: true
+
+  page-footer:
+    left: |
+      <span class="faux-block">&#169; 2024&ndash;2026 Ibrahim Niankara</span>
+      <span class="faux-block">Professor of Applied Economics &amp; Digital Innovation<br>Al Ain University &middot; College of Business</span>
+    center: |
+      <span class="faux-block"><strong>ORCID</strong> <a href="https://orcid.org/0000-0001-7049-0859" target="_blank">0000-0001-7049-0859</a></span>
+      <span class="faux-block"><strong>Scopus</strong> <a href="https://www.scopus.com/authid/detail.uri?authorId=57200579496" target="_blank">57200579496</a></span>
+      <span class="faux-block"><a href="https://brassbe1982-bdlweb.share.connect.posit.cloud/" target="_blank">BRASS Digital Lab</a></span>
+    right: |
+      <span class="faux-block">Made with R and <a href="https://quarto.org/" target="_blank">Quarto</a></span>
+      <span class="faux-block"><a href="https://github.com/brassbe1982" target="_blank">View source on GitHub</a></span>
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - html/ath-niankara.scss
+    css: styles.css
+    toc: true
+    footnotes-hover: true
+    code-copy: true
+    code-link: true
+    code-overflow: wrap
+    fig-align: center
+    link-external-icon: false
+    link-external-newwindow: true
+    email-obfuscation: javascript
+    include-in-header: "files/includes/_academic.qmd"

@@ -1,0 +1,52 @@
+---
+title: "Contact"
+description-meta: "Contact Prof. Ibrahim Niankara, Professor of Applied Economics, College of Business, Al Ain University. Founder of BRASS Digital Lab."
+title-block-banner: false
+---
+
+<center>
+
+**Prof. Ibrahim Niankara, PhD**
+
+Finance & Banking Department
+
+College of Business · Al Ain University — Abu Dhabi Campus
+
+United Arab Emirates
+
+Mobile: +971 50 164 2477
+
+Email: <Ibrahim.niankara@aau.ac.ae>
+
+**ORCID:** [0000-0001-7049-0859](https://orcid.org/0000-0001-7049-0859){.external target="_blank"}
+
+**Scopus Author ID:** [57200579496](https://www.scopus.com/authid/detail.uri?authorId=57200579496){.external target="_blank"}
+
+**LinkedIn:** [ibrahim-niankara-299a3762](https://www.linkedin.com/in/ibrahim-niankara-299a3762/){.external target="_blank"}
+
+</center>
+
+---
+
+<center>
+
+## BRASS Digital Lab
+
+**Regulatory Technology · Supervisory Technology · UAE Higher Education**
+
+Founder & Director: Ibrahim Niankara, PhD
+
+Website: [brassbe1982-bdlweb.share.connect.posit.cloud](https://brassbe1982-bdlweb.share.connect.posit.cloud/){.external target="_blank"}
+
+Lab Research: [brassbe1982-bdlweb.share.connect.posit.cloud/research](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/index.html){.external target="_blank"}
+
+Email: <brassbe1982@gmail.com>
+
+GitHub: [github.com/brassbe1982](https://github.com/brassbe1982){.external target="_blank"}
+
+*Specialists in MoHESR OBF compliance platforms, KPI analytics,*
+*and regulatory workflow engines built in R Shiny.*
+
+*100% MoHESR OBF v11.5 Certified · 76 UAE HEIs in Scope · 4 Live Platforms*
+
+</center>

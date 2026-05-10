@@ -1,0 +1,22 @@
+---
+title: "Digital Payment–Financial Inclusion Nexus and Payment System Innovation During COVID-19"
+description: "This paper in the Journal of Open Innovation examines how digital payment adoption and financial inclusion interact to drive payment system innovation in the global open economy during the pandemic."
+date: 2023-12-01
+categories: [paper, digital-finance, financial-inclusion, open-innovation, featured]
+image: ../../files/images/digital-payment.svg
+---
+
+## Summary
+
+Published in the *Journal of Open Innovation: Technology, Market, and Complexity*, this paper investigates the **digital payment–financial inclusion nexus** and its implications for **payment system innovation** within the global open economy during the COVID-19 pandemic.
+
+Using a multi-country dataset and a Random Utility Theory framework, the study models how households' and firms' decisions to adopt digital payment solutions are shaped by formal financial inclusion, regulatory environments, and digital infrastructure. The pandemic context provides a natural quasi-experiment: COVID-19 accelerated digital payment adoption across income groups, creating observable variation in the speed and breadth of financial inclusion.
+
+Key contributions include:
+- A theoretical nexus model linking financial inclusion to innovation in payment systems
+- Spatial econometric evidence on the geographic diffusion of digital payment adoption
+- Policy implications for central banks and fintech regulators seeking to promote inclusive innovation
+
+## Citation
+
+Niankara, I., & Traoret, R. I. (2023). The digital payment-financial inclusion nexus and payment system innovation within the global open economy during the COVID-19 pandemic. *Journal of Open Innovation: Technology, Market, and Complexity*, 9(4), 100173. doi:[10.1016/j.joitmc.2023.100173](https://doi.org/10.1016/j.joitmc.2023.100173){.external target="_blank"}

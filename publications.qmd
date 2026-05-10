@@ -1,0 +1,79 @@
+---
+title: "Publications"
+description-meta: "Full list of publications by Prof. Ibrahim Niankara, Professor of Applied Economics, Al Ain University"
+title-block-banner: false
+listing:
+  - id: selected-work
+    contents: publications.yml
+    type: custom
+    page-size: 100
+    categories: numbered
+    template: pub-listing.ejs
+    include:
+      section: "Selected Work"
+  - id: peer-reviewed
+    contents: publications.yml
+    type: custom
+    page-size: 100
+    categories: numbered
+    template: pub-listing.ejs
+    include:
+      section: "Peer-reviewed Journal Paper"
+css: pub-listing.css
+filters: [files/scripts/remove-stray-divfence.lua]
+---
+
+**Scopus Author ID:** [57200579496](https://www.scopus.com/authid/detail.uri?authorId=57200579496){.external target="_blank"} · 40+ documents indexed
+
+**ORCID:** [0000-0001-7049-0859](https://orcid.org/0000-0001-7049-0859){.external target="_blank"}
+
+**ResearchGate:** [Ibrahim-Niankara-3](https://www.researchgate.net/profile/Ibrahim-Niankara-3){.external target="_blank"}
+
+Note: \* corresponding author
+
+---
+
+## Selected Recent Work
+
+::: {#selected-work}
+:::
+
+## Peer-reviewed Journal Papers
+
+::: {#peer-reviewed}
+:::
+
+## Conference Papers
+
+- **Niankara, I.**, Aljallad, Y., Soussi, O., Maghrabi, K., Alkhyeli, M., & Alghool, S. (2025). "The Impact of Artificial Intelligence on Fresh Graduate Labor Demand: A Theoretical and Empirical Analysis with Industry and Firm Heterogeneity." *12th International Conference on the Global Congress on Emerging Technologies (GCET2025)*, Lyon, France, Dec 2–5, 2025.
+
+- **Niankara, I.** (2025). "Green Technology Innovation and Firm-Level Technical Efficiency: A Two-Stage Analysis in the Philippines." *2025 Global Congress on Emerging Technologies (GCET 2025)*, pp. 108–116.
+
+- **Niankara, I.**, Gnegne, Y. (2025). "Mapping the Intellectual Structure and Emerging Trends in Artificial Intelligence Applications to Social Network Analysis: A Bibliometric and Network Perspective (2010–2024)." *International Conference on Social Networks Analysis Management and Security (SNAMS 2025)*, pp. 124–131.
+
+- **Niankara, I.**, Zoungrana, D. T., Traoret, R. I. (2024). "COVID-19 Preventive Policy Preferences and Households Self-Reported Preventive Behaviors during the Pandemic: Evidence from Burkina Faso." *2024 Global Digital Health Knowledge Exchange & Empowerment Conference (gDigiHealth.KEE)*, pp. 1–13. IEEE.
+
+- **Niankara, I.** (2022). "Sustainability through open data sharing and reuse in the Digital Economy." *2022 International Arab Conference on Information Technology (ACIT)*, pp. 1–11. IEEE.
+
+## Data Articles
+
+- Muqattash, R., **Niankara, I.**, Traoret, R. (2020). "Survey Data for COVID-19 vaccine preference analysis in the United Arab Emirates." *Data in Brief*, 33, 106446.
+
+- **Niankara, I.** (2019). "Panel and geospatial data for U.S. FDIC insured banks fiduciary activities and annual performance analyses over the periods 2016 to 2018." *Data in Brief*, 25.
+
+- **Niankara, I.**, Hassan, I. H. (2019). "Data for the spatiotemporal analysis of US global banks' exposure to foreign counterparty risks." *Data in Brief*, 25.
+
+- **Niankara, I.** (2019). "Cross-national Data Sample on the Environmental Affection and Cognition of Adolescent Students of Varying Interests in Ecosystem Services and Sustainability." *Data in Brief*, 22, pp. 312–318.
+
+- **Niankara, I.** (2018). "Pooled Cross-sectional Sample Data of the 2015, 2016, 2017 National Health Interview Surveys for studying the determinants of Health care market and Labor Market Outcomes in Post Affordable Care Act USA." *Data in Brief*, 21, pp. 1526–1532.
+
+## Book Chapters
+
+- **Niankara, I.**, El-Rafae, G., Husain, Z., Qasim, A., & Traoret, R. I. (2025). "Green Innovations and Firms' Energy Expenditure-Sales Revenue Nexus in the Philippines: Evidence from AI Based Prescriptive Analytics." In *Applied Artificial Intelligence in Business: Systems, Tools and Techniques* (pp. 575–600). Cham: Springer Nature Switzerland.
+
+## Papers Under Review (2025)
+
+- **Niankara, I.** "Financial Inclusion and Firms' Adoption of Deming's Plan-Do-Check-Act (PDCA) Cycle for Energy Resources Management in ECA and MENA." *(First round review)*
+- **Niankara, I.** "Open Banking Maturity, Financial Inclusion, and Firm Productivity: Global Evidence from Enterprise Surveys." *(Initial submission)*
+- **Niankara, I.** "Application of Advanced Statistical Process Control methodologies to Regional Consumption Process Monitoring: Evidence from the WAEMU bloc." *(Initial submission)*
+

@@ -1,0 +1,14 @@
+---
+title: "Posts"
+description-meta: "News, papers, events, and updates from Prof. Ibrahim Niankara"
+title-block-banner: false
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  fields: [image, date, title, description, categories]
+page-layout: full
+---

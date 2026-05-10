@@ -1,0 +1,240 @@
+---
+title: "Research"
+subtitle: "Applied Econometrics · Inference Economics · Agentic Innovation Economics · Digital Finance · International Economics"
+description-meta: "Research interests, working papers, and current projects of Prof. Ibrahim Niankara, Al Ain University. BRASS Digital Lab research programmes."
+title-block-banner: false
+---
+
+Prof. Niankara's research is conducted through the **[BRASS Digital Lab](https://brassbe1982-bdlweb.share.connect.posit.cloud/){.external target="_blank"}** — the UAE's first and only RegTech and SupTech firm covering all 76+ accredited higher education institutions — and the **Finance & Banking Department** at Al Ain University's College of Business. His work spans six interconnected research programmes, organized below.
+
+[🔬 Browse All 27 Working Papers on the BRASS Digital Lab Research Portal »](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/index.html){.btn .btn-primary .external target="_blank"}
+
+---
+
+## ⚡ Inference Economics
+
+[View all Inference Economics papers →](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/#category=Inference%20Economics){.external target="_blank"}
+
+The defining and pioneering strand of his research programme. *Inference Economics* treats the **AI inference token** — the atomic commodity that gives access to machine cognition — as a formal economic good with supply, demand, price, welfare implications, and distributional consequences.
+
+**Core theoretical constructs:**
+
+- **Token Production Function** — formalizing how AI inference capacity is produced from compute, data, and model capital.
+- **Token Kuznets Curve** — the inverted-U relationship between AI-token intensity and economic inequality.
+- **Jevons Paradox of AI Tokens** — efficiency gains in inference may paradoxically increase aggregate cognitive-compute demand.
+
+**Working Papers:**
+
+::: {.callout-note appearance="minimal"}
+**[The Inference Economy: Token Consumption, Software Productivity, and Jevons Paradox Dynamics in Artificial Intelligence](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/Inference-economy-token-consumption-productivity-and-Jevons-paradox-dynamics-in-ai.html){.external target="_blank"}**
+Proposes and validates three novel economic relationships: the Token Production Function, the Token Kuznets Curve, and the Jevons Paradox of AI Tokens, using a calibrated simulation framework. *34 min read · May 2026*
+:::
+
+::: {.callout-note appearance="minimal"}
+**[Tokens as Technology: AI Inference, Labor Augmentation, and Long-Run Software Productivity Growth](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/tokens-as-technology.html){.external target="_blank"}**
+Develops a macroeconomic growth theory in which AI inference tokens enter the software production function as a Harrod-neutral labor-augmenting technology. *33 min read · May 2026*
+:::
+
+::: {.callout-note appearance="minimal"}
+**[Joint Scope–Scale Efficiency in Token Consumption under Parallelised Inference: Theory and Empirical Evidence from Large Language Model Systems](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/qa-proj6-inference-efficiency.html){.external target="_blank"}**
+Introduces a production-theoretic framework proving that model capacity and task scope are complements in LLM inference efficiency, with empirical evidence from a 52-institution SupTech deployment. *39 min read · April 2026*
+:::
+
+::: {.callout-note appearance="minimal"}
+**[The Transformative Role of Model Context Protocol (MCP) in the AI-Driven API Economy](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/qa-proj8-mcp-api-economy.html){.external target="_blank"}**
+A quasi-experimental difference-in-differences study on 10,000 simulated firms showing MCP adoption reduces integration costs by 29.77–32.38% and increases API call volume. *33 min read · April 2026*
+:::
+
+::: {.callout-note appearance="minimal"}
+**[Inference Economics in the AI Era: Research Programme](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/inference-economics-forthcoming.html){.external target="_blank"}**
+Forthcoming research programme overview — the economics of AI inference markets, compute pricing, inference-as-a-service dynamics, and marginal cost trajectories. *June 2026*
+:::
+
+---
+
+## 🤖 Agentic Innovation Economics
+
+[View all Agentic Innovation Economics papers →](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/#category=Agentic%20Innovation%20Economics){.external target="_blank"}
+
+*Agentic Innovation Economics* (AIE) extends classical endogenous growth theory to accommodate the emergence of **autonomous AI agents** as independent innovators alongside human researchers — studying their impact on innovation ecosystems, market dynamics, firm boundaries, and economic growth.
+
+**Working Papers:**
+
+::: {.callout-note appearance="minimal"}
+**[Agentic Innovation Economics: Autonomous AI Agents and the Future of Endogenous Technological Change](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/ai-agents-and-endogenous-technological-change.html){.external target="_blank"}**
+Introduces the AIE formal theoretical framework, extending endogenous growth theory to autonomous AI agents. *46 min read · April 2026*
+:::
+
+::: {.callout-note appearance="minimal"}
+**[A Complete Formal Endogenous Growth Model with Autonomous AI Innovation Agents: Theory, Equilibrium, and Simulation](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/growth-model-with-autonomous-ai-innovation-agents.html){.external target="_blank"}**
+A complete formal endogenous growth model where autonomous AI agents function as independent innovators alongside human researchers, with equilibrium analysis and full simulation results. *47 min read · April 2026*
+:::
+
+::: {.callout-note appearance="minimal"}
+**[The Impact of Artificial Intelligence on Fresh Graduate Labor Demand: A Theoretical and Empirical Analysis with Industry and Firm Heterogeneity](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/ai-graduate-labor-demand-agentic.html){.external target="_blank"}**
+IEEE conference paper modelling AI's dual role — substitution and complementarity — in fresh graduate labour demand using a CES production framework, Monte Carlo simulation, and policy analysis. *34 min read · March 2026*
+:::
+
+::: {.callout-note appearance="minimal"}
+**[Agentic Innovation Economics: Research Programme](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/agentic-innovation-economics-forthcoming.html){.external target="_blank"}**
+Forthcoming research programme on agent-based economic innovation — how autonomous AI agents reshape innovation ecosystems, market dynamics, and firm boundaries. *July 2026*
+:::
+
+---
+
+## 🏛️ OBEF Related Research
+
+[View all OBEF Related Research papers →](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/#category=OBEF%20related%20Research){.external target="_blank"}
+
+Research on the **UAE Outcome-Based Evaluation Framework (OBF)** — the MoHESR regulatory mandate that reoriented UAE higher education performance evaluation from inputs to measurable outputs. This programme provides the academic foundations for the BRASS Digital Lab RegTech platform business.
+
+**Working Papers:**
+
+::: {.callout-note appearance="minimal"}
+**[Digital Fair Trade Platforms for Supervision and Regulatory Compliance in Higher Education: A Cross-Border Development Finance Model](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/obf-digital-fair-trade.html){.external target="_blank"}**
+A formal platform-economics model of a Digital Fair Trade Platform for UAE Higher Education Regulation (DFT-HER), integrating mechanism design and Monte Carlo calibration. *31 min read · April 2026*
+:::
+
+::: {.callout-note appearance="minimal"}
+**[Regulation-Induced Innovation in Higher Education: The UAE's Edu-RegTech Market under the Outcome-Based Evaluation Framework](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/obf-regulation-innovation.html){.external target="_blank"}**
+Analyses how the UAE OBF induces a new Edu-RegTech market. A formal economic model and Monte Carlo simulation across ~100 UAE HEIs shows significant market emergence dynamics. *23 min read · April 2026*
+:::
+
+::: {.callout-note appearance="minimal"}
+**[The Digital Imperative in Outcomes-Based Quality Assurance: Causal Evidence and a Proposed Institutional Intelligence Platform for UAE HEIs](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/obf-digital-imperative.html){.external target="_blank"}**
+Employs a mixed-methods design — qualitative policy analysis and a synthetic panel DiD simulation of 76 UAE HEIs — to quantify the causal impact of digital platform adoption on OBF compliance outcomes. *23 min read · April 2026*
+:::
+
+---
+
+## 🌐 Digitalization, Inclusion & Development
+
+[View all Digitalization Inclusion and Development papers →](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/#category=Digitalization%20Inclusion%20and%20Development){.external target="_blank"}
+
+Empirical analysis of how digital and financial inclusion reshape household welfare, firm productivity, credit access, and development outcomes — with geographic focus on Burkina Faso, WAEMU, the UAE, and the global open economy.
+
+**Working Papers:**
+
+::: {.callout-note appearance="minimal"}
+**[Application of Advanced Statistical Process Control Methodologies to Regional Consumption Process Monitoring: Evidence from the WAEMU Bloc](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/paper11-waemu-consumption-process-monitoring.html){.external target="_blank"}**
+Pioneers the application of SPC to regional economic phenomena using EHCVM household survey data (2018/2019 and 2021/2022) from WAEMU's 103 strata. *79 min read · April 2026*
+:::
+
+::: {.callout-note appearance="minimal"}
+**[Financial Inclusion Effects on Firms' Quality Certification and Sales Performance](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/paper12-financial-inclusion-quality-certification-sales.html){.external target="_blank"}**
+Examines how formal financial inclusion, digital strategies, and international quality certification jointly influence firm sales performance using data from 96,952 firms. *34 min read · April 2026*
+:::
+
+::: {.callout-note appearance="minimal"}
+**[Formal Financial Inclusion and Firms' Access to Operational Credit Facilities in the Open Banking Era](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/paper13-financial-inclusion-operational-credit-open-banking.html){.external target="_blank"}**
+Investigates how formal financial inclusion (FFI) influences firms' access to overdrafts and credit lines in the open banking era. *29 min read · April 2026*
+:::
+
+::: {.callout-note appearance="minimal"}
+**[Digital and Financial Inclusion in Burkina Faso: Impacts on Household Welfare and the Mediating Role of the COVID-19 Pandemic](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/paper14-digital-financial-inclusion-burkina-faso-household-welfare.html){.external target="_blank"}**
+Examines how mobile phone ownership, internet access, and bank account possession influence household food and non-food consumption in Burkina Faso using EHCVM data. *38 min read · April 2026*
+:::
+
+::: {.callout-note appearance="minimal"}
+**[Open Banking Maturity, Financial Inclusion, and Firm Productivity: Global Evidence from Enterprise Surveys](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/paper15-open-banking-maturity-financial-inclusion-firm-productivity.html){.external target="_blank"}**
+Explores how national Open Banking maturity and firm-level financial inclusion jointly influence credit access and labor productivity in the global economy. *32 min read · April 2026*
+:::
+
+::: {.callout-note appearance="minimal"}
+**[Trading in Digital Financial Markets: A Microeconometric Analysis of Retail Investment Demand in the UAE](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/paper17-trading-demand-UAE.html){.external target="_blank"}**
+Develops and estimates a micro-founded trading demand function for retail investors in the UAE using a synthetic dataset of 10,000 digitally-active investors. *48 min read · April 2026*
+:::
+
+---
+
+## 📈 Strategic Orientation Economics
+
+[View all Strategic Orientation Economics papers →](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/#category=Strategic%20Orientation%20Economics){.external target="_blank"}
+
+Formal and empirical analysis of how firms' strategic orientations — digital strategy, quality certification, governance architecture, and saving strategies — shape their performance across heterogeneous institutional environments.
+
+**Working Papers:**
+
+::: {.callout-note appearance="minimal"}
+**[Evaluating the Influence of Digital Strategy on the Interplay between Quality Certification and Sales Performance Using Data Science and Machine Learning Algorithms](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/digital-strategy-quality-certification-sales.html){.external target="_blank"}**
+Published in *Journal of Open Innovation* (Vol. 10, Issue 3, 2024). Bivariate Gumbel copula regression on 121,429 World Bank Enterprise Survey firms across 148 economies. *31 min read*
+:::
+
+::: {.callout-note appearance="minimal"}
+**[Comparative Saving Strategy Effectiveness Analysis in the Global Economy: A Multidimensional Dominance Approach Using the 2025 Global Findex Database](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/paper18-saving-strategy-effectiveness-analysis-wbes.html){.external target="_blank"}**
+Individuals strategically combine formal bank accounts, mobile money, and informal savings clubs — this paper constructs a Saving Strategy Index to compare their welfare dominance globally. *48 min read · April 2026*
+:::
+
+::: {.callout-note appearance="minimal"}
+**[Comparative Effectiveness Analysis of Firms' External Validation and Market Signaling Strategies in Europe, Central Asia and MENA Markets](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/firms-external-validation-and-market-signaling-strategies-eca-mena.html){.external target="_blank"}**
+In information-asymmetric and institutionally heterogeneous ECA and MENA markets, firms face strategic choices on external validation — this paper compares their effectiveness. *50 min read · May 2026*
+:::
+
+::: {.callout-note appearance="minimal"}
+**[Governance Architecture and Political Embeddedness as Strategic Orientations: Firm-Level Evidence from Europe, Central Asia and MENA Markets](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/governance-architecture-and-political-embeddedness-as-strategic-orientations.html){.external target="_blank"}**
+Formal governance structures and political embeddedness are two foundational but analytically distinct dimensions of firm strategy in institutionally complex markets. *48 min read · May 2026*
+:::
+
+---
+
+## 💡 Other Digital Innovation Economics
+
+[View all Other Digital Innovation Economics papers →](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/#category=Other%20Digital%20Innovation%20Economics){.external target="_blank"}
+
+Empirical studies of green technology innovation, R&D investment, and innovation orientation across high-income countries and emerging market economies.
+
+**Working Papers:**
+
+::: {.callout-note appearance="minimal"}
+**[Green Technology Innovation and Firm-Level Technical Efficiency: A Two-Stage Analysis in the Philippines](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/green-tech-efficiency-philippines.html){.external target="_blank"}**
+IEEE conference paper. Two-stage DEA-Tobit analysis of 748 Philippine firms (WBES 2024 Green Economy module) finds green innovation improves technical efficiency by 8.7%. *51 min read · March 2026*
+:::
+
+::: {.callout-note appearance="minimal"}
+**[Developing the Innovation Orientation Index: Empirical Insights from Firm-Level Data in the ECA and MENA Regions](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/qa-proj9-innovation-orientation-index.html){.external target="_blank"}**
+Introduces the Innovation Orientation Index (IOI), a composite metric integrating Open Knowledge Innovation, Open R&D Innovation, and Closed R&D Innovation. *15 min read · April 2026*
+:::
+
+::: {.callout-note appearance="minimal"}
+**[Extensive and Intensive R&D Investments and Firm Output and Process Innovations in High-Income Countries: The Role of Financial Access](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/qa-proj10-rd-investment-innovation-hic.html){.external target="_blank"}**
+Copula-based trivariate probit model on 8,422 firms from the USA, UK, Canada, China, and South Korea (2024 WBES microdata). *30 min read · April 2026*
+:::
+
+::: {.callout-note appearance="minimal"}
+**[Unveiling Innovation Interdependence in Emerging Economies: A Bivariate Copula Analysis of Open and Closed Strategies in ECA and MENA](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/qa-proj16-innovation-interdependence-eca-mena.html){.external target="_blank"}**
+Examines joint determinants of product/service and process innovation among 9,710 private firms across 41 ECA and MENA economies using a bivariate copula model. *32 min read · April 2026*
+:::
+
+::: {.callout-note appearance="minimal"}
+**[Other Digital Innovation Economics: Research Programme](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/digital-innovation-economics-forthcoming.html){.external target="_blank"}**
+Forthcoming research programme — economics of digital transformation and green innovation including firm-level efficiency impacts and sustainability-driven market dynamics. *August 2026*
+:::
+
+---
+
+## Research Metrics & Profiles
+
+| Platform | Link |
+|---|---|
+| ORCID | [0000-0001-7049-0859](https://orcid.org/0000-0001-7049-0859){.external target="_blank"} |
+| Scopus | [Author ID 57200579496](https://www.scopus.com/authid/detail.uri?authorId=57200579496){.external target="_blank"} — 40+ peer-reviewed documents |
+| ResearchGate | [Ibrahim-Niankara-3](https://www.researchgate.net/profile/Ibrahim-Niankara-3){.external target="_blank"} |
+| BRASS Digital Lab | [27 Working Papers](https://brassbe1982-bdlweb.share.connect.posit.cloud/research/index.html){.external target="_blank"} across 6 research programmes |
+
+## Institutional Affiliations & Awards
+
+- **BRASS Digital Lab** — Founder & Director, Al Ain University, College of Business
+- Member: The Econometrics Society (2024–2027)
+- Member: Sigma Xi, The Scientific Research Honor Society (2023–2025)
+- Dean's Award for Quality Research, Al Ain University (2023)
+- Phi Beta Delta Scholar (2008) · Golden Key International Scholar (2008)
+- Oklahoma State University Distinguished Graduate Fellowship Award (2007)
+
+## Collaborations Welcome
+
+- Economics of AI and inference tokens
+- Agentic systems and endogenous growth
+- UAE/GCC higher education RegTech
+- Digital finance, open banking, and financial inclusion
+- Spatial and computational econometrics
+- West African and Gulf development economics
