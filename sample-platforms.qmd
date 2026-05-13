@@ -1,0 +1,49 @@
+---
+title: "Sample Platforms"
+description-meta: "Sample deployed platforms by Prof. Ibrahim Niankara for teaching, research, community engagement, and commercialization."
+toc: true
+---
+
+This page showcases sample platforms deployed for teaching, research, community engagement, and commercialization.
+
+## Teaching
+
+Platform developed for teaching the undergraduate course *Statistics for Business Decision Making*.
+
+::: {.container}
+<iframe class="responsive-iframe" src="https://brassbe1982-statisticsforbusiness.share.connect.posit.cloud/" title="Statistics for Business Decision Making teaching platform" loading="lazy"></iframe>
+:::
+
+## Research
+
+Platform developed for research and teaching the DBA course *Advanced Economics of Strategy*.
+
+::: {.container}
+<iframe class="responsive-iframe" src="https://brassbe1982-econstrategydba.share.connect.posit.cloud/" title="Advanced Economics of Strategy DBA research platform" loading="lazy"></iframe>
+:::
+
+## Community Engagement
+
+Platform developed for the UAE Comprehensive Economic Partnership Agreement (CEPA) analysis.
+
+::: {.container}
+<iframe class="responsive-iframe" src="https://brassbe1982-cepauae.share.connect.posit.cloud/" title="UAE CEPA analysis community engagement platform" loading="lazy"></iframe>
+:::
+
+## Commercialization
+
+### Edu-RegTech Platform
+
+Platform developed for Outcome-based Framework Evaluation in the UAE higher education sector.
+
+::: {.container}
+<iframe class="responsive-iframe" src="https://brassbe1982.shinyapps.io/BRASS-DIGITAL-LAB-AUD-OBF-VERS9/" title="Edu-RegTech Outcome-based Framework Evaluation platform" loading="lazy"></iframe>
+:::
+
+### Edu-SupTech Platform
+
+Platform developed for Outcome-based Framework Evaluation in the UAE higher education sector.
+
+::: {.container}
+<iframe class="responsive-iframe" src="https://brassbe1982.shinyapps.io/BRASS-DIGITAL-LAB-MoHESR-CAA-OBF-V01/" title="Edu-SupTech Outcome-based Framework Evaluation platform" loading="lazy"></iframe>
+:::

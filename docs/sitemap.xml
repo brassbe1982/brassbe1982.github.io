@@ -1,75 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ibrahim-niankara.github.io/index.html</loc>
-    <lastmod>2026-05-10T10:59:05.121Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ibrahim-niankara.github.io/teaching.html</loc>
+    <loc>https://brassbe1982.github.io/teaching.html</loc>
     <lastmod>2026-05-10T10:48:46.059Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ibrahim-niankara.github.io/contact.html</loc>
-    <lastmod>2026-05-10T05:38:55.467Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ibrahim-niankara.github.io/now.html</loc>
-    <lastmod>2026-05-10T05:33:47.664Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ibrahim-niankara.github.io/publications.html</loc>
-    <lastmod>2026-05-10T09:34:37.962Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ibrahim-niankara.github.io/research.html</loc>
-    <lastmod>2026-05-10T05:33:09.632Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ibrahim-niankara.github.io/posts/2022-entrepreneurial-finance/index.html</loc>
-    <lastmod>2026-05-10T06:37:02.886Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ibrahim-niankara.github.io/posts/2020-covid-vaccine-uae/index.html</loc>
-    <lastmod>2026-05-10T06:20:33.003Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ibrahim-niankara.github.io/posts/2023-digital-payment-inclusion/index.html</loc>
-    <lastmod>2026-05-10T06:21:30.601Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ibrahim-niankara.github.io/posts/2024-digital-strategy-ml/index.html</loc>
-    <lastmod>2026-05-10T06:22:12.137Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ibrahim-niankara.github.io/posts/2025-fintech-burkina-faso/index.html</loc>
-    <lastmod>2026-05-10T06:22:49.190Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ibrahim-niankara.github.io/posts/2025-green-tech-philippines/index.html</loc>
-    <lastmod>2026-05-10T06:23:25.929Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ibrahim-niankara.github.io/posts.html</loc>
-    <lastmod>2026-05-10T06:33:40.922Z</lastmod>
-  </url>
-  <url>
-    <loc>https://brassbe1982.github.io/index.html</loc>
-    <lastmod>2026-05-10T12:56:03.551Z</lastmod>
-  </url>
-  <url>
-    <loc>https://brassbe1982.github.io/about.html</loc>
-    <lastmod>2026-05-10T12:04:51.015Z</lastmod>
   </url>
   <url>
     <loc>https://brassbe1982.github.io/research.html</loc>
     <lastmod>2026-05-10T05:33:09.632Z</lastmod>
   </url>
   <url>
+    <loc>https://brassbe1982.github.io/posts.html</loc>
+    <lastmod>2026-05-10T06:33:40.922Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brassbe1982.github.io/posts/2025-fintech-burkina-faso/index.html</loc>
+    <lastmod>2026-05-10T06:22:49.190Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brassbe1982.github.io/posts/2023-digital-payment-inclusion/index.html</loc>
+    <lastmod>2026-05-10T06:21:30.601Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brassbe1982.github.io/posts/2020-covid-vaccine-uae/index.html</loc>
+    <lastmod>2026-05-10T06:20:33.003Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brassbe1982.github.io/index.html</loc>
+    <lastmod>2026-05-10T16:05:31.261Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brassbe1982.github.io/about.html</loc>
+    <lastmod>2026-05-10T12:04:51.015Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brassbe1982.github.io/contact.html</loc>
+    <lastmod>2026-05-10T05:38:55.467Z</lastmod>
+  </url>
+  <url>
     <loc>https://brassbe1982.github.io/now.html</loc>
     <lastmod>2026-05-10T05:33:47.664Z</lastmod>
   </url>
   <url>
+    <loc>https://brassbe1982.github.io/posts/2022-entrepreneurial-finance/index.html</loc>
+    <lastmod>2026-05-10T06:37:02.886Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brassbe1982.github.io/posts/2024-digital-strategy-ml/index.html</loc>
+    <lastmod>2026-05-10T06:22:12.137Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brassbe1982.github.io/posts/2025-green-tech-philippines/index.html</loc>
+    <lastmod>2026-05-10T06:23:25.929Z</lastmod>
+  </url>
+  <url>
     <loc>https://brassbe1982.github.io/publications.html</loc>
     <lastmod>2026-05-10T09:34:37.962Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brassbe1982.github.io/sample-platforms.html</loc>
+    <lastmod>2026-05-13T09:59:04.882Z</lastmod>
   </url>
 </urlset>

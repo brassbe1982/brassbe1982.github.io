@@ -72,6 +72,8 @@ website:
           - text: About the Lab
             href: https://brassbe1982-bdlweb.share.connect.posit.cloud/about.html
             target: _blank
+      - text: Sample Platforms
+        href: sample-platforms.qmd
 
     right:
       - text: "**CV**"

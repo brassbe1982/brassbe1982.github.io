@@ -1,13 +1,5 @@
 [
   {
-    "listing": "/index.html",
-    "items": []
-  },
-  {
-    "listing": "/publications.html",
-    "items": []
-  },
-  {
     "listing": "/posts.html",
     "items": [
       "/posts/2025-green-tech-philippines/index.html",
@@ -17,5 +9,20 @@
       "/posts/2022-entrepreneurial-finance/index.html",
       "/posts/2020-covid-vaccine-uae/index.html"
     ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/2025-green-tech-philippines/index.html",
+      "/posts/2025-fintech-burkina-faso/index.html",
+      "/posts/2024-digital-strategy-ml/index.html",
+      "/posts/2023-digital-payment-inclusion/index.html",
+      "/posts/2022-entrepreneurial-finance/index.html",
+      "/posts/2020-covid-vaccine-uae/index.html"
+    ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": []
   }
 ]
